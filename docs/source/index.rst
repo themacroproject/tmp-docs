@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to The Macro Project documentation!
 ===================================
 
 **The Macro Project** is a open source project to help increase productivity of day to day tasks and workflows with the use of Macro Keyboards.
@@ -27,6 +27,8 @@ Contents
 
    :caption: Quickstart
    The Macro Project
+
+   ../README_MORE.rst
 
 .. toctree::
 
