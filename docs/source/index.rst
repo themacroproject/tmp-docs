@@ -25,13 +25,15 @@ Contents
 
 .. toctree::
 
+   :maxdepth: 4
    :caption: Quickstart
    The Macro Project
 
-   ../README_MORE.rst
+   README_MORE.rst
 
 .. toctree::
 
+   :maxdepth: 1
    :caption: Hardware
    Boards
    Design 
@@ -39,6 +41,7 @@ Contents
 
 .. toctree::
 
+   :maxdepth: 1
    :caption: Software
    Prerequisite
    Basic 
@@ -47,6 +50,7 @@ Contents
 
 .. toctree::
 
+   :maxdepth: 1
    :caption: Examples
    Basic examples for Macro Pod Lite
    Basic examples for Macro Pod Pro
