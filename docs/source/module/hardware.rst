@@ -27,13 +27,17 @@ how to :ref:`installation` the project.
 
    :maxdepth: 4
    :caption: Quickstart
+   The Macro Project
+
    README_MORE.rst
 
 .. toctree::
 
    :maxdepth: 1
    :caption: Hardware
-   module/hardware.rst
+   Boards
+   Design 
+   Circuit
 
 .. toctree::
 
