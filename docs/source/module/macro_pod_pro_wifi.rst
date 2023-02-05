@@ -1,4 +1,4 @@
-Changelog
+Design
 ===================================
 
 **The Macro Project** is a open source project to help increase productivity of day to day tasks and workflows with the use of Macro Keyboards.
@@ -20,8 +20,3 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-
-
-
-
-   
