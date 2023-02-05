@@ -1,4 +1,4 @@
-Welcome to The Macro Project documentation!
+Hardware
 ===================================
 
 **The Macro Project** is a open source project to help increase productivity of day to day tasks and workflows with the use of Macro Keyboards.
@@ -25,36 +25,12 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   :maxdepth: 4
-   :caption: Quickstart
-   The Macro Project
-
-   README_MORE.rst
-
-.. toctree::
-
    :maxdepth: 1
    :caption: Hardware
-   Boards
-   Design 
-   Circuit
+   boards.rst
+   design.rst 
+   circuit.rst
 
-.. toctree::
-
-   :maxdepth: 1
-   :caption: Software
-   Prerequisite
-   Basic 
-   Advance
-   Changelog
-
-.. toctree::
-
-   :maxdepth: 1
-   :caption: Examples
-   Basic examples for Macro Pod Lite
-   Basic examples for Macro Pod Pro
-   Basic examples for Macro Pod Pro (wifi)
 
 
    
