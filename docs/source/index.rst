@@ -11,7 +11,7 @@ With its durable design, customizable layout, and advanced programming capabilit
 Experience the power of open-source technology with the open-source macro keyboard, and take control of your workflow today!
 In addition, an open-source macro keyboard also allows for a more secure and transparent environment, as the source code is publicly available for review and verification, making it possible to ensure that no malicious codes or backdoors are included. Plus, the open-source nature of the keyboard means that it's not tied to any specific manufacturer or vendor, making it a more sustainable option that can be maintained and updated by the community for a longer period of time.
 
-For more information, visit `The Macro Project website <https://themacroproject.github.io/>`
+For more information, visit `The Macro Project website <https://themacroproject.github.io/>`_
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -24,19 +24,16 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   :maxdepth: 4
    :caption:
    README_MORE.rst
 
 .. toctree::
 
-   :maxdepth: 1
    :caption: Hardware
    module/hardware.rst
 
 .. toctree::
 
-   :maxdepth: 1
    :caption: Software
    Prerequisite
    Basic 
@@ -45,7 +42,6 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   :maxdepth: 1
    :caption: Examples
    Basic examples for Macro Pod Lite
    Basic examples for Macro Pod Pro

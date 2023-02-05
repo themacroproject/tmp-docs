@@ -21,7 +21,6 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 .. contents:: Overview
-   :depth: 2
 
 .. toctree::
 
