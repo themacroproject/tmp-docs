@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'The Macro Project'
+copyright = '2023, The Macro Project'
+author = 'Aniket Katkar'
 
 release = '0.1'
 version = '0.1.0'

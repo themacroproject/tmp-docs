@@ -16,9 +16,6 @@ For more information, visit `The Macro Project website <https://themacroproject.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Pre-requisite
-=============
-
 .. note::
 
    This project is under active development.
