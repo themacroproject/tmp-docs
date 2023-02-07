@@ -1,20 +1,27 @@
 Software
 ===================================
 
-**The Macro Project** is a open source project to help increase productivity of day to day tasks and workflows with the use of Macro Keyboards.
-The ultimate open-source macro keyboard - designed for the power user who demands flexibility and customization. With its open-source firmware and programming capabilities, this keyboard allows you to fully customize and personalize your typing experience.
+Summary:
+-------
+An _Arduino_ microcontroller can be used to build a custom macro keyboard by programming it to recognize specific keystrokes and perform a corresponding action, such as executing a macro or launching a program. This allows for automation and streamlining of repetitive tasks, as well as customization and personalization of the keyboard. 
+We will mostly be using Arduino or Arduino IDE supported boards as they are highly customizable and is supported by a large community.
 
-Unlike proprietary macro keyboards, an open-source macro keyboard gives you the freedom to modify and improve the firmware to your exact needs. You can create custom macros, remap keys, and even add new functionality. The open-source community also provides a wealth of resources, including tutorials, FAQs, and forums where you can share your work and learn from others.
+Arduino:
+--------
+`Arduino <https://arduino.cc>_` is an open-source electronics platform based on simple, easy-to-use hardware and software. It consists of a `microcontroller <https://en.wikipedia.org/wiki/Microcontroller>_` board and a development environment for writing software, which can be used to control various devices and sensors. Arduino boards are commonly used for projects such as home automation, robotics, and Internet of Things (IoT) applications due to their versatility, low cost, and ease of use. With a basic understanding of electronics and programming, anyone can use an Arduino to build and control a wide range of interactive devices.
 
-With its durable design, customizable layout, and advanced programming capabilities, the open-source macro keyboard is perfect for gamers, programmers, and power users who want to take their productivity to the next level. Plus, you can be sure that your keyboard will continue to work and be supported with new updates and features.
+Arduino IDE:
+-----------
+The Arduino Integrated Development Environment (IDE) is a software application used for programming and uploading code to an Arduino microcontroller board. The Arduino IDE provides a simple and user-friendly interface for writing, compiling, and uploading code to the board. It supports multiple programming languages, including C and C++, and includes libraries and examples to help users get started quickly. The Arduino IDE also allows for debugging and testing of code, making it a valuable tool for beginners and experienced users alike. Overall, the Arduino IDE provides a streamlined and accessible way for users to develop and control projects using an Arduino board.
+Download Link - `Arduino IDE <https://www.arduino.cc/en/software>_`
 
-Experience the power of open-source technology with the open-source macro keyboard, and take control of your workflow today!
-In addition, an open-source macro keyboard also allows for a more secure and transparent environment, as the source code is publicly available for review and verification, making it possible to ensure that no malicious codes or backdoors are included. Plus, the open-source nature of the keyboard means that it's not tied to any specific manufacturer or vendor, making it a more sustainable option that can be maintained and updated by the community for a longer period of time.
+To learn more about how to use Arduino, check out the following links.
+`Arduino Docs <https://docs.arduino.cc/>_`
+`Getting Started <https://www.arduino.cc/en/Guide>_`
+`Tutorials <https://docs.arduino.cc/tutorials/>_`
 
-For more information, visit `The Macro Project website <https://themacroproject.github.io/>`
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Check out our Github for more details - `Github <https://github.com/themacroproject>_`
 
 .. note::
 
