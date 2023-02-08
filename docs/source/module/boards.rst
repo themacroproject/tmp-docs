@@ -18,8 +18,3 @@ For `Arduino Nano <https://support.arduino.cc/hc/en-us/articles/4733418441116-Up
 .. note::
 
    This project is under active development.
-
-
-
-
-   

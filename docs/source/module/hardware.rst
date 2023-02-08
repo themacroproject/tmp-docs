@@ -8,7 +8,6 @@ You can choose from a list of boards that they have developed `here <https://doc
 
 This project uses Arduino Micro and Atmel Attiny85 as its base microcontrollers. You may use any microcontroller of your choice and make the necessary connections to the buttons and use it as your macro keyboard.
 
-
 .. note::
 
    This project is under active development.
