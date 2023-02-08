@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Read the Docs for The Macro Project
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repo contains readthedocs for The Macro Project documentation.
 
-Read the tutorial here:
+Read the documentation here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://tmp-docs.readthedocs.io/

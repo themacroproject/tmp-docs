@@ -1,4 +1,4 @@
-Design
+Macro Pod Pro (Wifi)
 ===================================
 
 **The Macro Project** is a open source project to help increase productivity of day to day tasks and workflows with the use of Macro Keyboards.
@@ -19,4 +19,3 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
-
