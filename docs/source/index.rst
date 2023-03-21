@@ -10,8 +10,6 @@ With its durable design, customizable layout, and advanced programming capabilit
 
 For more information, visit `The Macro Project website <https://themacroproject.github.io/>`_
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
@@ -22,17 +20,27 @@ how to :ref:`installation` the project.
 .. toctree::
 
    :caption: Introduction
-   README_MORE.rst
+   introduction.rst
 
 .. toctree::
 
-   :caption: Hardware
-   module/hardware.rst
+   :caption: MacroPod One
+   module/macropod_one.rst
 
 .. toctree::
 
-   :caption: Software
-   module/software.rst
+   :caption: MacroPod Lite
+   module/macropod_lite.rst
+
+.. toctree::
+
+   :caption: MacroPod Pro
+   module/macropod_pro.rst
+
+.. toctree::
+
+   :caption: MacroPod Pro (Wifi)
+   module/macropod_pro_wifi.rst
 
 .. toctree::
 

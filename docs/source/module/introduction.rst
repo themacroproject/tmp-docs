@@ -1,4 +1,4 @@
-Software
+Introduction
 ========
 
 **Summary:**
@@ -24,14 +24,6 @@ Check out our Github for more details - `Github <https://github.com/themacroproj
 
    This project is under active development.
 
-.. contents:: Software
-
-.. toctree::
-
-   :maxdepth: 1
-   basic.rst
-   advance.rst 
-   changelog.rst
 
 
 
