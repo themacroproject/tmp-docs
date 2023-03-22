@@ -1,6 +1,10 @@
 Introduction
 ========
 
+
+The following are pre-requisites to design your own custom Macro keyboard. We have provided all the guides and resources to various topics such as Arduino coding, Hardware, PCB design.
+
+
 **Summary:**
 
 
@@ -17,9 +21,22 @@ The Arduino Integrated Development Environment (IDE) is a software application u
 Download Link - `Arduino IDE <https://www.arduino.cc/en/software>`_
 
 To learn more about how to use Arduino, check out the following links.
-`Arduino Docs <https://docs.arduino.cc/>`_
-`Getting Started <https://www.arduino.cc/en/Guide>`_
-`Tutorials <https://docs.arduino.cc/tutorials/>`_
+
+
+`Arduino Docs <https://docs.arduino.cc/>`_,
+
+
+`Getting Started <https://www.arduino.cc/en/Guide>`_,
+
+
+`Tutorials <https://docs.arduino.cc/tutorials/>`_.
+
+
+**Boards:**
+
+
+Any board that is supported by Arduino can be used for this project. The pins and connections with the mechanical switches would change accordingly. 
+To check which boards we can use with the Arduino IDE, please refer `Supported Boards <https://www.arduino.cc/en/hardware>`_
 
 
 Check out our Github for more details - `Github <https://github.com/themacroproject>`_
