@@ -10,15 +10,15 @@ Below are the schematic, PCB and Gerber files which we made using EasyEDA. You c
 **Schematic:**
 
 
-.. image:: https://github.com/themacroproject/circuit_design/blob/master/Macro%20Pod%20One%20(Digispark)/Schematic_Macro_Pod_One.png
+.. image:: Schematic_Macro_Pod_One.png
   :width: 400
-  :alt: https://github.com/themacroproject/circuit_design/blob/master/Macro%20Pod%20One%20(Digispark)/Schematic_Macro_Pod_One.png
+  :alt: Schematic_Macro_Pod_One.png
 
 
 **PCB:**
-.. image:: https://github.com/themacroproject/circuit_design/blob/master/Macro%20Pod%20One%20(Digispark)/PCB_Macro_Pod_One.png
+.. image:: PCB_Macro_Pod_One.png
   :width: 400
-  :alt: https://github.com/themacroproject/circuit_design/blob/master/Macro%20Pod%20One%20(Digispark)/PCB_Macro_Pod_One.png
+  :alt: PCB_Macro_Pod_One.png
 
 
 **Gerber File:**
