@@ -10,6 +10,18 @@ With its durable design, customizable layout, and advanced programming capabilit
 
 For more information, visit `The Macro Project website <https://themacroproject.github.io/>`_
 
+Checkout our social media to get the latest updates on all the development and updates.
+`Website <https://themacroproject.github.io>`_
+`Instagram <https://instagram.com/the.macro.project>`_
+`LinkedIn <https://linkedin.com/company/themacroproject>`_
+`Twitter <https://twitter.com/themacroproject>`_
+`Reddit <https://reddit.com/r/themacroproject>`_ 
+`Linktree <https://linktr.ee/themacroproject>`_ 
+
+Support us on our Patreon
+
+`https://patreon.com/themacroproject <https://patreon.com/themacroproject>`
+
 
 .. note::
 
