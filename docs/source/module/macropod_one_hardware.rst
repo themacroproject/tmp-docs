@@ -25,7 +25,7 @@ Below are the schematic, PCB and Gerber files which we made using EasyEDA. You c
 
 
 **Gerber File:**
-`File <https://github.com/themacroproject/circuit_design/blob/master/Macro%20Pod%20One%20(Digispark)/Gerber_PCB_Macro%20Pod%20Lite_2023-03-20.zip>`_
+`File <https://github.com/themacroproject/macropod_one/blob/master/Gerber_PCB_Macro%20Pod%20Lite_2023-03-20.zip>`_
 
 
 .. note::

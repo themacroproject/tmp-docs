@@ -25,9 +25,7 @@ To learn more about how to use Arduino, check out the following links.
 
 `Arduino Docs <https://docs.arduino.cc/>`_,
 
-
 `Getting Started <https://www.arduino.cc/en/Guide>`_,
-
 
 `Tutorials <https://docs.arduino.cc/tutorials/>`_.
 

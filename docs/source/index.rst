@@ -58,8 +58,8 @@ Support us on our Patreon
 
 .. toctree::
 
-   :caption: Examples
-   module/examples.rst
+   :caption: Use Cases
+   module/usecases.rst
    
 
 
