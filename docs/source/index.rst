@@ -18,9 +18,11 @@ Checkout our social media to get the latest updates on all the development and u
 `Reddit <https://reddit.com/r/themacroproject>`_ 
 `Linktree <https://linktr.ee/themacroproject>`_ 
 
+Check out our blog on `Medium <https://medium.com/@themacroproject>`_
+
 Support us on our Patreon
 
-`https://patreon.com/themacroproject <https://patreon.com/themacroproject>`
+`https://patreon.com/themacroproject <https://patreon.com/themacroproject>`_
 
 
 .. note::
