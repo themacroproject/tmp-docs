@@ -20,7 +20,7 @@ For more information, visit `The Macro Project website <https://themacroproject.
 .. toctree::
 
    :caption: Introduction
-   introduction.rst
+   module/introduction.rst
 
 .. toctree::
 
