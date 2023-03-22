@@ -9,12 +9,12 @@ MacroPod One Software
 
 
 #. Open the Arduino IDE and go to File > Preferences.
-In the Additional Boards Manager URLs field, add the following URL: `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json <https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json>_`
+In the Additional Boards Manager URLs field, add the following URL: `https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json <https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_digistump_index.json>`_
 Click "OK" to close the Preferences window.
 Install the necessary USB drivers:
 
 
-#. Download the appropriate driver for your operating system from the Digispark website: `https://digistump.com/wiki/digispark/tutorials/connecting <https://digistump.com/wiki/digispark/tutorials/connecting>_`
+#. Download the appropriate driver for your operating system from the Digispark website: `https://digistump.com/wiki/digispark/tutorials/connecting <https://digistump.com/wiki/digispark/tutorials/connecting>`_
 Follow the installation instructions for the driver.
 Connect the Digispark to your computer:
 
@@ -94,7 +94,7 @@ Then, an if statement checks if the button is pressed by comparing keyState1 to 
 Finally, the DigiKeyboard.delay() function is used to wait for 500 milliseconds before repeating the loop. This function is preferred over the delay() function used in regular Arduino programming because it keeps the computer informed that the keyboard is still alive and connected.
 
 
-For more information, check the MacroPod One `Github <https://github.com/themacroproject/arduino_code>`
+For more information, check the MacroPod One `Github <https://github.com/themacroproject/arduino_code>`_
 
 
 .. note::
