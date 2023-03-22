@@ -94,7 +94,7 @@ Then, an if statement checks if the button is pressed by comparing keyState1 to 
 Finally, the DigiKeyboard.delay() function is used to wait for 500 milliseconds before repeating the loop. This function is preferred over the delay() function used in regular Arduino programming because it keeps the computer informed that the keyboard is still alive and connected.
 
 
-For more information, check the MacroPod One `Github <https://github.com/themacroproject/arduino_code>`_
+For more information, check the MacroPod One `Github <https://github.com/themacroproject/macropod_one>`_
 
 
 .. note::

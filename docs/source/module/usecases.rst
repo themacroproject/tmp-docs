@@ -1,4 +1,4 @@
-Examples
+Use Cases
 ===================================
 
 Here are basic snippets of code that you can use to understand and extend your own logic to add features or new definitions to your buttons.
@@ -7,14 +7,14 @@ Here are basic snippets of code that you can use to understand and extend your o
 
    This project is under active development.
 
-.. contents:: Examples
+.. contents:: Use Cases
 
 .. toctree::
 
    :maxdepth: 1
-   macro_pod_lite.rst
-   macro_pod_pro.rst
-   macro_pod_pro_wifi.rst
+   uc_macropod_lite.rst
+   uc_macropod_pro.rst
+   uc_macropod_pro_wifi.rst
 
 
    
